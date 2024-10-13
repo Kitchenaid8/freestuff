@@ -1,1 +1,0 @@
-window.onscroll=function(){$(document).scrollTop()>0?$("#btnJumpTop").fadeIn("slow"):$("#btnJumpTop").fadeOut("slow")};
